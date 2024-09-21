@@ -2,12 +2,15 @@
   "name": "@react-playground2/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "view:chat": "nx show project react-chat"
+  },
   "private": true,
   "dependencies": {
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-is": "18.3.1",
+    "react-router-dom": "6.11.2",
     "styled-components": "5.3.6",
     "tslib": "^2.3.0"
   },
