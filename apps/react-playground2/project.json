@@ -1,0 +1,9 @@
+{
+  "name": "react-playground2",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/react-playground2/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project react-playground2 --web",
+  "targets": {}
+}
