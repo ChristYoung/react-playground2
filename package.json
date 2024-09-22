@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "view:chat": "nx show project react-chat"
+    "view:chat": "nx show project react-chat",
+    "dev:chat": "nx run react-chat:serve"
   },
   "private": true,
   "dependencies": {
