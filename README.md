@@ -80,3 +80,11 @@ And join the Nx community:
 - [Follow us on X](https://twitter.com/nxdevtools) or [LinkedIn](https://www.linkedin.com/company/nrwl)
 - [Our Youtube channel](https://www.youtube.com/@nxdevtools)
 - [Our blog](https://nx.dev/blog?utm_source=nx_project&utm_medium=readme&utm_campaign=nx_projects)
+
+
+## TODO
+
+- [ ] [React-chat from bilibili](https://www.bilibili.com/video/BV1sS411N7qz/?spm_id_from=333.1007.top_right_bar_window_history.content.click)
+- [ ] Write tests
+- [ ] Refactor code
+- [ ] Fix bugs
