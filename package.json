@@ -4,7 +4,8 @@
   "license": "MIT",
   "scripts": {
     "view:chat": "nx show project react-chat",
-    "dev:chat": "nx run react-chat:serve"
+    "dev:chat": "nx run react-chat:serve",
+    "dev:playground": "nx run react-playground2:serve"
   },
   "private": true,
   "dependencies": {
